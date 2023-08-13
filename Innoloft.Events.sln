@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Innoloft.Events.Api", "Innoloft.Events.Api\Innoloft.Events.Api.csproj", "{7BA2F4FB-5240-493E-90B4-BBD2D14E5DD2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Innoloft.Events.Api.Tests", "Innoloft.Events.Api.Tests\Innoloft.Events.Api.Tests.csproj", "{7456FCB3-0F23-4981-9EAB-C4CA391E2864}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "docs", "docs", "{AD017E55-B85F-4889-B385-584207A01B40}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "images", "images", "{68461EAE-92C9-40F8-87C5-8D2807C13B50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BA2F4FB-5240-493E-90B4-BBD2D14E5DD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BA2F4FB-5240-493E-90B4-BBD2D14E5DD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BA2F4FB-5240-493E-90B4-BBD2D14E5DD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BA2F4FB-5240-493E-90B4-BBD2D14E5DD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7456FCB3-0F23-4981-9EAB-C4CA391E2864}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7456FCB3-0F23-4981-9EAB-C4CA391E2864}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7456FCB3-0F23-4981-9EAB-C4CA391E2864}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7456FCB3-0F23-4981-9EAB-C4CA391E2864}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{68461EAE-92C9-40F8-87C5-8D2807C13B50} = {AD017E55-B85F-4889-B385-584207A01B40}
+	EndGlobalSection
+EndGlobal
